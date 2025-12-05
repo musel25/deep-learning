@@ -1,0 +1,9 @@
+matplotlib
+seaborn
+torch
+numpy
+datasets
+gensim
+spacy
+tokenizers
+ipykernel
