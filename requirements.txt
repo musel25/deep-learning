@@ -7,3 +7,4 @@ gensim
 spacy
 tokenizers
 ipykernel
+scikit-learn

@@ -1,0 +1,6 @@
+datasets
+gensim
+numpy
+spacy
+tokenizers
+torch
