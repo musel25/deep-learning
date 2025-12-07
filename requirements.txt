@@ -8,3 +8,4 @@ spacy
 tokenizers
 ipykernel
 scikit-learn
+spacy
